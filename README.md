@@ -21,7 +21,8 @@ License along with this library; if not, write to the Free Software
 Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 
 
-The official repository for the SQL Anywhere Hibernate dialects is located on github
+The official repository for the SQL Anywhere Hibernate dialects is located on github:
+https://github.com/sqlanywhere/hibernate
 
 
 Build and install instructions can be found in the readme inside the specific versions sub-directory
